@@ -1,0 +1,23 @@
+# gh-new-resource-detector — Python dependencies
+# Written by h3nryza
+#
+# Core
+requests==2.32.3
+urllib3==2.2.3
+
+# AWS Lambda / S3 output
+boto3==1.35.99
+botocore==1.35.99
+s3transfer==0.10.4
+
+# GitHub App auth (JWT)
+PyJWT==2.10.1
+cryptography==44.0.2
+
+# Optional: PyGithub convenience wrapper
+PyGithub==2.5.0
+
+# Development / test
+pytest==8.3.4
+pytest-cov==6.0.0
+responses==0.25.3

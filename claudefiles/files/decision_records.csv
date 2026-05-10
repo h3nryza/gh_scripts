@@ -1,0 +1,8 @@
+ID,Date,Decision,Rationale,Status,Alternatives_Considered
+DR-001,2026-05-10,"Break into 7 independent tools not monolith","User explicitly requested independent scripts; easier to maintain/test/deploy individually",APPROVED,"Single CLI with subcommands"
+DR-002,2026-05-10,"Use bash for simple scripts (1,2,3) and Python for complex ones (4,5,6,7)","Bash is simpler for GH CLI wrapping; Python needed for Lambda/API/complex logic",APPROVED,"All Python; All Bash; Go"
+DR-003,2026-05-10,"SQLite for orchestration state tracking","Minimize token usage; persistent task state across agent calls; queryable",APPROVED,"JSON files; In-memory only"
+DR-004,2026-05-10,"Each tool gets its own directory with self-contained files","Golden rule #9 - meaningful names, keep files together; enables curl-based remote execution",APPROVED,"Flat structure; Nested by language"
+DR-005,2026-05-10,"Support 3 auth methods: GH CLI, PAT via curl, GitHub OAuth App","User explicitly requested all three; covers enterprise and personal use cases",APPROVED,"GH CLI only"
+DR-006,2026-05-10,"Lambda deployments for scripts 4-7 with local fallback","User wants both local and Lambda; S3 for Lambda output, local file for local",APPROVED,"Local only; Lambda only"
+DR-007,2026-05-10,"TDD approach with mock and unit tests per tool","Golden rule #11-12; production-grade quality requirement",APPROVED,"No tests; Integration tests only"

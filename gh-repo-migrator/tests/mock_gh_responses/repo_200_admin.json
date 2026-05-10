@@ -1,0 +1,17 @@
+{
+  "id": 123456789,
+  "name": "my-repo",
+  "full_name": "source-org/my-repo",
+  "owner": {
+    "login": "source-org",
+    "type": "Organization"
+  },
+  "private": false,
+  "fork": false,
+  "permissions": {
+    "admin": true,
+    "push": true,
+    "pull": true
+  },
+  "url": "https://api.github.com/repos/source-org/my-repo"
+}

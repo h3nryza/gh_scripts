@@ -1,0 +1,11 @@
+{
+  "message": "Validation Failed",
+  "errors": [
+    {
+      "resource": "Repository",
+      "code": "custom",
+      "message": "Repository already exists on the destination organization."
+    }
+  ],
+  "documentation_url": "https://docs.github.com/rest/repos/repos#transfer-a-repository"
+}

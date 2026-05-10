@@ -1,0 +1,10 @@
+{
+  "login": "dest-org",
+  "id": 11111111,
+  "url": "https://api.github.com/orgs/dest-org",
+  "repos_url": "https://api.github.com/orgs/dest-org/repos",
+  "type": "Organization",
+  "public_repos": 10,
+  "total_private_repos": 5,
+  "owned_private_repos": 5
+}

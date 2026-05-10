@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1001,
+    "name": "alpha-service",
+    "full_name": "test-org/alpha-service",
+    "visibility": "private",
+    "html_url": "https://github.com/test-org/alpha-service",
+    "owner": { "login": "test-org" }
+  },
+  {
+    "id": 1002,
+    "name": "beta-lib",
+    "full_name": "test-org/beta-lib",
+    "visibility": "public",
+    "html_url": "https://github.com/test-org/beta-lib",
+    "owner": { "login": "test-org" }
+  },
+  {
+    "id": 1003,
+    "name": "gamma-internal",
+    "full_name": "test-org/gamma-internal",
+    "visibility": "internal",
+    "html_url": "https://github.com/test-org/gamma-internal",
+    "owner": { "login": "test-org" }
+  }
+]

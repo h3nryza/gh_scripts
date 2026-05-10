@@ -1,0 +1,17 @@
+# gh-best-practices-audit requirements
+# Written by h3nryza
+
+# Core (no external dependencies for basic usage)
+# The tool uses only stdlib for CLI operation.
+
+# Optional: Excel custom rules support
+openpyxl>=3.1.0
+
+# Optional: Lambda / S3 output
+boto3>=1.28.0
+
+# Development / Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+ruff>=0.1.0
+black>=23.0.0

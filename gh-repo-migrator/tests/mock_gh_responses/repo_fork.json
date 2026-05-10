@@ -1,0 +1,17 @@
+{
+  "id": 987654321,
+  "name": "forked-repo",
+  "full_name": "source-org/forked-repo",
+  "owner": {
+    "login": "source-org",
+    "type": "Organization"
+  },
+  "private": false,
+  "fork": true,
+  "permissions": {
+    "admin": true,
+    "push": true,
+    "pull": true
+  },
+  "url": "https://api.github.com/repos/source-org/forked-repo"
+}

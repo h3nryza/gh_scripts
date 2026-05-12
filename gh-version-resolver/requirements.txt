@@ -3,7 +3,7 @@
 #
 # Core HTTP
 requests==2.32.3
-urllib3==2.2.3
+urllib3==2.7.0
 
 # YAML parsing for GitHub Actions workflow files
 PyYAML==6.0.2

@@ -18,7 +18,7 @@ s3transfer==0.10.4
 
 # GitHub App auth (JWT)
 PyJWT==2.10.1
-cryptography==44.0.2
+cryptography==46.0.7
 
 # Development / test
 pytest==8.3.4

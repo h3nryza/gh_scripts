@@ -1,0 +1,12 @@
+[
+  {
+    "id": 3001,
+    "login": "test-org",
+    "url": "https://api.github.com/orgs/test-org"
+  },
+  {
+    "id": 3002,
+    "login": "another-org",
+    "url": "https://api.github.com/orgs/another-org"
+  }
+]

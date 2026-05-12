@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2001,
+    "name": "org-service-api",
+    "full_name": "test-org/org-service-api",
+    "owner": { "login": "test-org" },
+    "description": "Main API service for the organisation",
+    "visibility": "private",
+    "private": true,
+    "fork": false,
+    "archived": false,
+    "language": "TypeScript",
+    "pushed_at": "2026-05-01T15:00:00Z",
+    "updated_at": "2026-05-01T15:00:00Z",
+    "size": 4096,
+    "clone_url": "https://github.com/test-org/org-service-api.git",
+    "ssh_url": "git@github.com:test-org/org-service-api.git"
+  },
+  {
+    "id": 2002,
+    "name": "org-frontend",
+    "full_name": "test-org/org-frontend",
+    "owner": { "login": "test-org" },
+    "description": "React frontend for the main application",
+    "visibility": "private",
+    "private": true,
+    "fork": false,
+    "archived": false,
+    "language": "JavaScript",
+    "pushed_at": "2026-04-28T11:30:00Z",
+    "updated_at": "2026-04-28T11:30:00Z",
+    "size": 8192,
+    "clone_url": "https://github.com/test-org/org-frontend.git",
+    "ssh_url": "git@github.com:test-org/org-frontend.git"
+  },
+  {
+    "id": 2003,
+    "name": "org-shared-lib",
+    "full_name": "test-org/org-shared-lib",
+    "owner": { "login": "test-org" },
+    "description": "Shared utility library published to npm",
+    "visibility": "public",
+    "private": false,
+    "fork": false,
+    "archived": false,
+    "language": "TypeScript",
+    "pushed_at": "2026-04-20T09:00:00Z",
+    "updated_at": "2026-04-20T09:00:00Z",
+    "size": 2048,
+    "clone_url": "https://github.com/test-org/org-shared-lib.git",
+    "ssh_url": "git@github.com:test-org/org-shared-lib.git"
+  }
+]

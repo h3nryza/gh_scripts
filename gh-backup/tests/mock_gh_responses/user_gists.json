@@ -1,0 +1,34 @@
+[
+  {
+    "id": "abc123def456abc1",
+    "description": "Useful bash utility functions",
+    "public": true,
+    "updated_at": "2026-04-10T09:00:00Z",
+    "created_at": "2026-01-05T10:00:00Z",
+    "git_pull_url": "https://gist.github.com/abc123def456abc1.git",
+    "files": {
+      "utils.sh": {
+        "filename": "utils.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "size": 1200
+      }
+    }
+  },
+  {
+    "id": "fff999eee888fff9",
+    "description": "Secret config snippet",
+    "public": false,
+    "updated_at": "2026-03-22T14:00:00Z",
+    "created_at": "2026-02-01T08:00:00Z",
+    "git_pull_url": "https://gist.github.com/fff999eee888fff9.git",
+    "files": {
+      "config.yaml": {
+        "filename": "config.yaml",
+        "type": "application/x-yaml",
+        "language": "YAML",
+        "size": 320
+      }
+    }
+  }
+]

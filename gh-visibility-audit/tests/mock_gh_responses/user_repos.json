@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2001,
+    "name": "my-public-tool",
+    "full_name": "octocat/my-public-tool",
+    "visibility": "public",
+    "html_url": "https://github.com/octocat/my-public-tool",
+    "owner": { "login": "octocat" }
+  },
+  {
+    "id": 2002,
+    "name": "secret-project",
+    "full_name": "octocat/secret-project",
+    "visibility": "private",
+    "html_url": "https://github.com/octocat/secret-project",
+    "owner": { "login": "octocat" }
+  }
+]

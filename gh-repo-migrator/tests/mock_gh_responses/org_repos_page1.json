@@ -1,0 +1,7 @@
+[
+  {"name": "repo-alpha",   "full_name": "my-org/repo-alpha",   "private": false, "fork": false},
+  {"name": "repo-beta",    "full_name": "my-org/repo-beta",    "private": false, "fork": false},
+  {"name": "repo-gamma",   "full_name": "my-org/repo-gamma",   "private": true,  "fork": false},
+  {"name": "repo-delta",   "full_name": "my-org/repo-delta",   "private": false, "fork": true},
+  {"name": "repo-epsilon", "full_name": "my-org/repo-epsilon", "private": true,  "fork": false}
+]

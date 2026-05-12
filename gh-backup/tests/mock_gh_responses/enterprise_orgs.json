@@ -1,0 +1,14 @@
+[
+  {
+    "id": 3001,
+    "login": "test-org-one",
+    "description": "First organisation in the enterprise",
+    "url": "https://api.github.com/orgs/test-org-one"
+  },
+  {
+    "id": 3002,
+    "login": "test-org-two",
+    "description": "Second organisation in the enterprise",
+    "url": "https://api.github.com/orgs/test-org-two"
+  }
+]

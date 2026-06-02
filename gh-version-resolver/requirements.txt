@@ -2,7 +2,7 @@
 # Written by h3nryza
 #
 # Core HTTP
-requests==2.32.3
+requests==2.33.0
 urllib3==2.2.3
 
 # YAML parsing for GitHub Actions workflow files
